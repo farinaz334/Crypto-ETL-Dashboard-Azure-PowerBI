@@ -64,15 +64,15 @@ This project was built to help a financial analytics firm monitor cryptocurrency
 
 ## Used skills and Tools:
 
-(Build real business tools from scratch)
-(real-time APIs) CoinGecko API==>	Real-time & historical crypto data
-(real-time APIs) Python==>	Fetching and formatting historical data
-(cloud architecture) Azure Blob==>	Storage for historical JSON files
-(cloud architecture) Azure SQL DB==>	Centralized storage for reporting
-(cloud architecture) Azure Data Factory==>	Pipelines to move API + Blob data into SQL
-(BI & Dashboards) Power BI==>	Dashboarding, DAX, and publishing
-(Data Engineering)
-(Business Analytics , Problem Solving & Story Telling With DATA)
+### - (Build real business tools from scratch)
+### -(real-time APIs) CoinGecko API==>	Real-time & historical crypto data
+### -(real-time APIs) Python==>	Fetching and formatting historical data
+### -(cloud architecture) Azure Blob==>	Storage for historical JSON files
+### -(cloud architecture) Azure SQL DB==>	Centralized storage for reporting
+### -(cloud architecture) Azure Data Factory==>	Pipelines to move API + Blob data into SQL
+### -(BI & Dashboards) Power BI==>	Dashboarding, DAX, and publishing
+### -(Data Engineering)
+### -(Business Analytics , Problem Solving & Story Telling With DATA)
 
 
 ## Automation
