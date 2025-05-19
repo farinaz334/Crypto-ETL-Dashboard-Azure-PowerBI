@@ -34,8 +34,8 @@ This project was built to help a financial analytics firm monitor cryptocurrency
 -Created Azure SQL database  
 -Created Blob storage for historical files  
 -Built pipelines in Azure Data Factory:  
-	Real-Time Pipeline: CoinGecko API → SQL (daily trigger)  
-	Historical Pipeline: Blob → SQL (manual or monthly refresh)
+    *Real-Time Pipeline: CoinGecko API → SQL (daily trigger)  
+    *Historical Pipeline: Blob → SQL (manual or monthly refresh)
 
 ### 3)Data Integration
 
